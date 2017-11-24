@@ -1,1 +1,1 @@
-Git is great!
+# Git is awesome!
